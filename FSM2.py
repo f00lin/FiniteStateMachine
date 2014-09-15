@@ -1,6 +1,7 @@
 import random
 
 
+# options available at each node
 node_1 = ['n', 'c']
 node_2 = ['s', 'c']
 node_3 = ['x', 'H']
