@@ -16,6 +16,7 @@ number = 3
 length = 6
 
 
+# initialise a string
 FSM = []
 
 
