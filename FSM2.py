@@ -8,7 +8,10 @@ node_4 = ['s', 'v']
 node_5 = ['v', 'n']
 
 
+# number of grammatical strings to return
 number = 3
+
+# maximum length of those strings
 length = 6
 
 
